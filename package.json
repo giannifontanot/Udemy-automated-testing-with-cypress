@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/giannifontanot/Udemy-automated-testing-with-cypress/issues"
   },
-  "homepage": "https://github.com/giannifontanot/Udemy-automated-testing-with-cypress#readme"
+  "homepage": "https://github.com/giannifontanot/Udemy-automated-testing-with-cypress#readme",
+  "dependencies": {
+    "cypress": "^9.5.3"
+  }
 }
